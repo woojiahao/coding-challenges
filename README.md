@@ -3,28 +3,35 @@ List of links to CodeWars Challenges
 
 ## Equal Sides Of An Array
 Challenge Link: https://www.codewars.com/kata/5679aa472b8f57fb8c000047
+
 Solution: https://gist.github.com/woojiahao/f1989b4d78a82404dc9c8092ef2038ec
 
 ## Multiple of Three or Five
 Challenge Link: https://www.codewars.com/kata/514b92a657cdc65150000006
+
 Solution: https://gist.github.com/woojiahao/b6b71fbe3ad08c238aa3a69cefcb793c
 
 ## Playing with passphrases
 Challenge Link: https://www.codewars.com/kata/559536379512a64472000053
+
 Solution: https://gist.github.com/woojiahao/f68af0b759deebcfd4074fbfb7693cd8
 
 ## Common Denominators
 Challenge Link: https://www.codewars.com/kata/54d7660d2daf68c619000d95
+
 Solution: https://gist.github.com/woojiahao/cd3477150549053071f597a6d748c543
 
 ## Triple Trouble
 Challenge Link: https://www.codewars.com/kata/55d5434f269c0c3f1b000058
+
 Solution: https://gist.github.com/woojiahao/4b63d99fc7e3bdaf8c77ef66b02bd1e9
 
 ## Counting Duplicates
 Challenge Link: https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1
+
 Solution: https://gist.github.com/woojiahao/e5baab60c9cfaae062987bf1b1ba67b9
 
 ## Moves in squared strings (2)
 Challenge Link: https://www.codewars.com/kata/56dbe7f113c2f63570000b86
+
 Solution: https://gist.github.com/woojiahao/2373011b4964ae936c4ac047c3b0f7c1
