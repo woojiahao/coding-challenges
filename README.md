@@ -1,5 +1,6 @@
 # codewars-challenges
 List of links to CodeWars Challenges 
+All of my solutions are not the best, when I do perform a revision on all of the past Katas, I will post my newly updated solutions!
 
 ## Equal Sides Of An Array
 Challenge Link: https://www.codewars.com/kata/5679aa472b8f57fb8c000047
