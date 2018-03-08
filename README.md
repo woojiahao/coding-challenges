@@ -39,6 +39,11 @@ Challenge Link: https://www.codewars.com/kata/56dbe7f113c2f63570000b86
 
 Solution: https://gist.github.com/woojiahao/2373011b4964ae936c4ac047c3b0f7c1
 
+### Range Extraction
+Challenge Link: http://www.codewars.com/kata/51ba717bb08c1cd60f00002f
+
+Solution: https://gist.github.com/woojiahao/37247afe26305178ba2c6b07ab7b71be
+
 ## Failed to complete:
 ### John and Ann sign up for CodeWars 
 Challenge Link: http://www.codewars.com/kata/57591ef494aba64d14000526
