@@ -49,3 +49,8 @@ Solution: https://gist.github.com/woojiahao/37247afe26305178ba2c6b07ab7b71be
 Challenge Link: http://www.codewars.com/kata/57591ef494aba64d14000526
 
 Solution: https://gist.github.com/woojiahao/a38fb97271234d567f114a71132e15a7
+
+### Is Friend Lying?
+Challenge Link: https://www.codewars.com/kata/5547cc7dcad755e480000004
+
+Solution: https://gist.github.com/woojiahao/37d2c2806b2c72059203d9a4a47847f4
