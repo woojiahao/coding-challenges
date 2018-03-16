@@ -44,6 +44,13 @@ Challenge Link: http://www.codewars.com/kata/51ba717bb08c1cd60f00002f
 
 Solution: https://gist.github.com/woojiahao/37247afe26305178ba2c6b07ab7b71be
 
+### Scramblies
+Challenge Link: https://www.codewars.com/kata/55c04b4cc56a697bb0000048
+
+Solution (Java): https://gist.github.com/woojiahao/d38c78dd8e5c1c729ca304caf11f8006
+
+Solution (C#): https://gist.github.com/woojiahao/0c0a11f5b6cd0a93aef6bc6c18ebd8a8
+
 ## Failed to complete:
 ### John and Ann sign up for CodeWars 
 Challenge Link: http://www.codewars.com/kata/57591ef494aba64d14000526
