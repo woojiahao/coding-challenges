@@ -56,6 +56,11 @@ Challenge Link: http://www.codewars.com/kata/5550d638a99ddb113e0000a2
 
 Solution: https://gist.github.com/woojiahao/4c4fe9e0ff51752af49d581194b7ab9c
 
+### Largest Difference in Increasing Indexes
+Challenge Link: http://www.codewars.com/kata/52503c77e5b972f21600000e
+
+Solution: https://gist.github.com/woojiahao/2470d44e30cae6c3e88c60547ce4c0ea
+
 ### John and Ann sign up for CodeWars 
 Challenge Link: http://www.codewars.com/kata/57591ef494aba64d14000526
 
