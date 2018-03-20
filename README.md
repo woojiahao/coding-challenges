@@ -51,7 +51,11 @@ Solution (Java): https://gist.github.com/woojiahao/d38c78dd8e5c1c729ca304caf11f8
 
 Solution (C#): https://gist.github.com/woojiahao/0c0a11f5b6cd0a93aef6bc6c18ebd8a8
 
-## Failed to complete:
+### Josephus Permutations
+Challenge Link: http://www.codewars.com/kata/5550d638a99ddb113e0000a2
+
+Solution: https://gist.github.com/woojiahao/4c4fe9e0ff51752af49d581194b7ab9c
+
 ### John and Ann sign up for CodeWars 
 Challenge Link: http://www.codewars.com/kata/57591ef494aba64d14000526
 
