@@ -1,5 +1,5 @@
-# codewars-challenges
-List of links to CodeWars Challenges and my solutions to them
+# Coding Challenges List
+List of links to Coding Challenges and my solutions to them
 
 All of my solutions are not the best, when I do perform a revision on all of the past Katas, I will post my newly updated solutions!
 
@@ -70,3 +70,8 @@ Solution: https://gist.github.com/woojiahao/a38fb97271234d567f114a71132e15a7
 Challenge Link: https://www.codewars.com/kata/5547cc7dcad755e480000004
 
 Solution: https://gist.github.com/woojiahao/37d2c2806b2c72059203d9a4a47847f4
+
+### Zebras and Ocelots
+Challenge Link: https://open.kattis.com/problems/zebrasocelots
+
+Solution: https://gist.github.com/woojiahao/c34d60f1d8d9d897cf8c65da9cb040b3
