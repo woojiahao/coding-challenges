@@ -75,3 +75,8 @@ Solution: https://gist.github.com/woojiahao/37d2c2806b2c72059203d9a4a47847f4
 Challenge Link: https://open.kattis.com/problems/zebrasocelots
 
 Solution: https://gist.github.com/woojiahao/c34d60f1d8d9d897cf8c65da9cb040b3
+
+### k-Primes
+Challenge Link: https://www.codewars.com/kata/5726f813c8dcebf5ed000a6b
+
+Solution: https://gist.github.com/woojiahao/66cc6fd104c4887fe56953ebb37d62d0
