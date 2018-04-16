@@ -85,3 +85,8 @@ Solution: https://gist.github.com/woojiahao/66cc6fd104c4887fe56953ebb37d62d0
 Challenge Link: https://www.codewars.com/kata/573182c405d14db0da00064e
 
 Solution: https://gist.github.com/woojiahao/14ae2bb17233a3f1ee7758f4b195a958
+
+### Unflatten (Easy)
+Challenge Link: https://www.codewars.com/kata/57e2dd0bec7d247e5600013a
+
+Solution: https://gist.github.com/woojiahao/0f8d87a5307843bba62d5c85ca5f85ee
