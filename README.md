@@ -80,3 +80,8 @@ Solution: https://gist.github.com/woojiahao/c34d60f1d8d9d897cf8c65da9cb040b3
 Challenge Link: https://www.codewars.com/kata/5726f813c8dcebf5ed000a6b
 
 Solution: https://gist.github.com/woojiahao/66cc6fd104c4887fe56953ebb37d62d0
+
+### Consecutive k-Primes
+Challenge Link: https://www.codewars.com/kata/573182c405d14db0da00064e
+
+Solution: https://gist.github.com/woojiahao/14ae2bb17233a3f1ee7758f4b195a958
