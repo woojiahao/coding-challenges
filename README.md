@@ -90,3 +90,8 @@ Solution: https://gist.github.com/woojiahao/14ae2bb17233a3f1ee7758f4b195a958
 Challenge Link: https://www.codewars.com/kata/57e2dd0bec7d247e5600013a
 
 Solution: https://gist.github.com/woojiahao/0f8d87a5307843bba62d5c85ca5f85ee
+
+### Weight for Weight
+Challenge Link: http://www.codewars.com/kata/55c6126177c9441a570000cc
+
+Solution: https://hastebin.com/marodukere.py
